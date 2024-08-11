@@ -1,6 +1,17 @@
 {
   "name": "eco-bs-components",
   "version": "0.0.1",
+  "author": "S0lturne",
+  "description": "Biblioteca de utilitários da Infra.",
+  "keywords": [ "components", "angular", "typescript", "directives", "services", "pipes", "bootstrap", "tailwind", "scss" ],
+  "bugs": {
+    "email": "erickzcarvalho25@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/S0lturn3/eco-bs-components.git"
+  },
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^17.3.0",
     "@angular/core": "^17.3.0"
